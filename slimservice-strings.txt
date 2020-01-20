@@ -119,7 +119,7 @@ OTHER_SERVICES
 	SV	Extrafunktioner
 
 ADDING_TO_FAVORITES
-	BE	Даданне ў абранае:
+	BE	Дадаць ў абранае:
 	DA	Føjer til favoritter:
 	DE	Zu Favoriten hinzufügen:
 	EN	Adding to favorites:
