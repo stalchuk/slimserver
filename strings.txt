@@ -1483,7 +1483,7 @@ SLEEP_CANCEL
 	SV	Avbryt viloläge
 
 SLEEPING_IN_X_MINUTES
-	BE	XXX
+	BE	Спячы рэжым праз %s хві.
 	CS	Vypnutí za %s minut
 	DA	Slumrer om %s minutter
 	DE	Schlafmodus in %s Minuten
@@ -1499,7 +1499,7 @@ SLEEPING_IN_X_MINUTES
 	SV	Växlar till viloläge om %s minuter.
 
 X_MINUTES
-	BE	XXX
+	BE	%s хві.
 	CS	%s minut
 	DA	%s minutter
 	DE	%s Minuten
@@ -1515,7 +1515,7 @@ X_MINUTES
 	SV	%s minuter
 
 SLEEPING_IN
-	BE	XXX
+	BE	Спячы рэжым праз
 	CS	Do ztracena
 	DA	Slumrefunktion aktiveres om
 	DE	Schlafmodus in
@@ -1535,7 +1535,7 @@ SLEEPING_IN
 	ZH_CN	关机倒数进行中
 
 SLEEP_AT_END_OF_SONG
-	BE	XXX
+	BE	Спячы рэжым у канцы песні
 	CS	Ztlumit na konci skladby
 	DA	Slumrefunktion når nummeret er slut
 	DE	Schlafmodus bei Titelende
@@ -1551,7 +1551,7 @@ SLEEP_AT_END_OF_SONG
 	SV	Viloläge när låten har tagit slut
 
 SLEEPING_AT_END_OF_SONG
-	BE	XXX
+	BE	Спячы рэжым у канцы песні
 	CS	Ztlumit na konci skladby
 	DA	Slumrefunktion når nummeret er slut
 	DE	Schlafmodus bei Titelende
@@ -1567,7 +1567,7 @@ SLEEPING_AT_END_OF_SONG
 	SV	Viloläge när låten har tagit slut
 
 NOTHING_CURRENTLY_PLAYING
-	BE	XXX
+	BE	Зараз нічога не іграе
 	CS	Nyní se nic nepřehrává
 	DA	Der afspilles ikke noget i øjeblikket
 	DE	Keine Wiedergabe
@@ -1583,7 +1583,7 @@ NOTHING_CURRENTLY_PLAYING
 	SV	Just nu spelas inget upp
 
 SLEEP
-	BE	XXX
+	BE	Спячы рэжым
 	CS	Sleep (Režim spánku)
 	DA	Slumre
 	DE	Schlafmodus
@@ -1601,7 +1601,7 @@ SLEEP
 	ZH_CN	睡眠状态
 
 SLEEPING_AT
-	BE	XXX
+	BE	Спячы рэжым на
 	CS	Ztlumení v
 	DA	Slumrefunktion aktiveres om
 	DE	Schlafmodus um
@@ -1619,7 +1619,7 @@ SLEEPING_AT
 	ZH_CN	进入睡眠状态
 
 POWERING_OFF
-	BE	XXX
+	BE	У рэжым чакання...
 	CS	Přechod do pohotovosti...
 	DA	Går på standby...
 	DE	Standbymodus wird aktiviert ...
@@ -1639,8 +1639,8 @@ POWERING_OFF
 	ZH_CN	进入备用状态中...
 
 POWER
-	BE	XXX
 #SLT: This is "power" as in the "Power on/off" button
+	BE	Сiлкаванне
 	CS	Napájení
 	DA	Tænd/sluk
 	DE	Ein/Aus
@@ -1659,7 +1659,7 @@ POWER
 	ZH_CN	电源开关
 
 EXPAND
-	BE	XXX
+	BE	Разгарнуць
 	CS	Roztáhnout
 	DA	Udvid
 	DE	Erweitern
@@ -1675,7 +1675,7 @@ EXPAND
 	SV	Expandera
 
 COLLAPSE
-	BE	XXX
+	BE	Згарнуць
 	CS	Sbalit
 	DA	Skjul
 	DE	Verkleinern
@@ -1691,7 +1691,7 @@ COLLAPSE
 	SV	Komprimera
 
 UNDOCK_PLAYER_PANEL
-	BE	XXX
+	BE	Адкрыйце панэль прайгравальніка ў іншым акне
 	CS	Vyjmout panel přehrávače
 	DA	Frigør afspillerpanelet
 	DE	Player Panel in eigenem Fenster öffnen
@@ -1707,7 +1707,7 @@ UNDOCK_PLAYER_PANEL
 	SV	Frigör spelarpanelen
 
 ALARM
-	BE	XXX
+	BE	Будзільнік
 	CS	Budík
 	DA	Vækkeur
 	DE	Wecker
@@ -1727,7 +1727,7 @@ ALARM
 	ZH_CN	闹钟
 
 ALARM_ALARM
-	BE	XXX
+	BE	Будзільнік
 	CS	Budík
 	DA	Vækkeur
 	DE	Wecker
@@ -1743,7 +1743,7 @@ ALARM_ALARM
 	SV	Alarm
 
 ALARM_SET
-	BE	XXX
+	BE	Час будзільніка
 	CS	Čas budíku
 	DA	Vækketidspunkt
 	DE	Weckzeit einstellen
@@ -1759,7 +1759,7 @@ ALARM_SET
 	SV	Alarmtid
 
 ALARM_ON
-	BE	XXX
+	BE	Укл.
 	CS	Zapnout
 	DA	Til
 	DE	Ein
@@ -1779,7 +1779,7 @@ ALARM_ON
 	ZH_CN	启用
 
 ALARM_OFF
-	BE	XXX
+	BE	Выкл.
 	CS	Vypnuto
 	DA	Fra
 	DE	Aus
@@ -1799,7 +1799,7 @@ ALARM_OFF
 	ZH_CN	撤销
 
 ALARM_SELECT_PLAYLIST
-	BE	XXX
+	BE	Сігнал будзільніка
 	CS	Zvuk budíku
 	DA	Vækkelyd
 	DE	Weckton
@@ -1815,7 +1815,7 @@ ALARM_SELECT_PLAYLIST
 	SV	Larmsignal
 
 ALARM_USE_CURRENT_PLAYLIST
-	BE	XXX
+	BE	Выкарыстоўваць бягучы спіс прайгравання
 	CS	Použít aktuální seznam skladeb
 	DA	Brug nuværende afspilningsliste
 	DE	Aktuelle Wiedergabeliste verwenden
@@ -1831,7 +1831,7 @@ ALARM_USE_CURRENT_PLAYLIST
 	SV	Använd aktuell spellista
 
 ALARM_VOLUME
-	BE	XXX
+	BE	Гучнасць будзільніка
 	CS	Hlasitost budíku
 	DA	Lydstyrke for vækkeur
 	DE	Weckerlautstärke
@@ -1847,7 +1847,7 @@ ALARM_VOLUME
 	SV	Alarmvolym
 
 ALARM_VOLUME_DESC
-	BE	XXX
+	BE	З дапамогай гэтай налады вы можаце ўсталяваць гучнасць для будзільніка.
 	CS	Toto nastavení vám dovoluje zvolit úroveň hlasitosti, která bude použita při spuštění budíku.
 	DA	Du bruger denne indstilling til at angive hvor højt vækkeuret skal ringe/spille.
 	DE	Mit dieser Einstellung können Sie die Lautstärke für den Wecker festlegen.
@@ -1863,7 +1863,7 @@ ALARM_VOLUME_DESC
 	SV	Med den här inställningen väljer du volymen för alarmet.
 
 ALARM_NEXT_ALARM
-	BE	XXX
+	BE	Наступны будзільнік
 	CS	Další budík
 	DA	Næste vækkeur:
 	DE	Nächster Wecker:
@@ -1879,7 +1879,7 @@ ALARM_NEXT_ALARM
 	SV	Nästa alarm:
 
 ALARM_ADD
-	BE	XXX
+	BE	Усталяваць будзільнік
 	CS	Přidat budík
 	DA	Tilføj vækkeur
 	DE	Wecker hinzufügen
