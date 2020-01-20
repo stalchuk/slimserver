@@ -1895,7 +1895,7 @@ ALARM_ADD
 	SV	Lägg till alarm
 
 ALARM_ADD_DESC
-	BE	XXX
+	BE	Вы можаце усталяваць любую колькасць будзільнікаў. Кожны будзільнік можа спрацаваць штодня, толькі па пэўных днях або адзін раз. Абярыце "Усталяваць будзільнік", каб усталяваць новы будзільнік.
 	CS	Můžete přidat tolik budíků, kolik chcete. Každý budík může být nastaven na každý den, pouze na určité dny nebo jen jednou. Nový budík přidáte volbou "Přidat budík".
 	DA	Du kan tilføje lige så mange vækkeure som du vil. Hvert vækkeur kan indstilles til at ringe hver dag, på bestemte dage eller kun en enkelt gang. Vælg Tilføj vækkeur for at indstille et nyt.
 	DE	Sie können beliebig viele Wecker einrichten. Ein Wecker kann jeden Tag, nur an bestimmten Tagen oder nur einmal gelten. Wählen Sie "Wecker hinzufügen", um einen neuen Wecker hinzuzufügen.
@@ -1911,7 +1911,7 @@ ALARM_ADD_DESC
 	SV	Du kan ställa in hur många alarm du vill. För varje alarm kan du ange om det ska ringa varje dag, vissa bestämda dagar eller bara vid ett tillfälle. Välj Lägg till alarm om du vill ställa in ett nytt alarm.
 
 ALARM_NEW
-	BE	XXX
+	BE	Новы будзільнік
 	CS	Nový budík
 	DA	Nyt vækkeur
 	DE	Neuer Wecker
@@ -1927,7 +1927,7 @@ ALARM_NEW
 	SV	Nytt alarm
 
 ALARM_DELETE
-	BE	XXX
+	BE	Выдаліць будзільнік
 	CS	Odstranit budík
 	DA	Slet vækkeur
 	DE	Wecker entfernen
@@ -1943,7 +1943,7 @@ ALARM_DELETE
 	SV	Ta bort alarm
 
 ALARM_ALARM_ENABLED
-	BE	XXX
+	BE	Усталяваны
 	CS	Povoleno
 	DA	Aktiveret
 	DE	Aktiviert
@@ -1959,7 +1959,7 @@ ALARM_ALARM_ENABLED
 	SV	Aktiverat
 
 ALARM_ALL_ALARMS_ENABLED
-	BE	XXX
+	BE	Усе будзільнікі усталяваны
 	CS	Všechny budíky povoleny
 	DA	Alle vækkeure er slået til
 	DE	Alle Wecker aktiviert
@@ -1975,7 +1975,7 @@ ALARM_ALL_ALARMS_ENABLED
 	SV	Alla alarm har aktiverats
 
 ALARM_ALL_ALARMS_DISABLED
-	BE	XXX
+	BE	Усе будзільнікі выключаны
 	CS	Všechny budíky vypnuty
 	DA	Alle vækkeure er slået fra
 	DE	Alle Wecker deaktiviert
@@ -1991,7 +1991,7 @@ ALARM_ALL_ALARMS_DISABLED
 	SV	Alla alarm har avaktiverats
 
 ALARM_ALARM_REPEAT
-	BE	XXX
+	BE	Паўтарыць будзільнік
 	CS	Opakovaný budík
 	DA	Gentag vækning
 	DE	Wecker wiederholen
@@ -2007,7 +2007,7 @@ ALARM_ALARM_REPEAT
 	SV	Upprepa alarm
 
 ALARM_ALARM_ONETIME
-	BE	XXX
+	BE	Аднаразовы будзільнік
 	CS	Jednorázový budík
 	DA	Engangsvækning
 	DE	Einmaliger Alarm
@@ -2023,7 +2023,7 @@ ALARM_ALARM_ONETIME
 	SV	Engångsalarm
 
 ALARM_ALARM_REPEAT_DESC
-	BE	XXX
+	BE	З дапамогай гэтай налады вы можаце ўсталяваць, ці будзе будзільнік працаваць больш адного разу. Калі абрана "Не", будзільнік адключыцца аўтаматычна пасля першага званка. Её не будзе працаваць, пакуль не ўключыць зноў.
 	CS	Toto nastavení vám umožní zvolit, zda se tento budík spustí více než jednou. Je-li nastaveno na  Ne, tento budík se automaticky po spuštění vypne.  Tento budík se tedy opět nespustí, pokud jej nezapnete.
 	DA	Indstillingen bruges til at angive om dette vækkeur skal ringe mere end én gang. Hvis du vælger Nej, bliver det automatisk slået fra når det har ringet. derefter vil vækkeuret ikke ringe igen før du slår det til igen.
 	DE	Hier können Sie bestimmen, ob dieser Wecker mehrmals ausgelöst werden soll. Wenn Sie 'Nein' wählen, wird der Wecker automatisch deaktiviert, nachdem er ausgelöst wurde. Dieser Wecker wird dann erst wieder ausgelöst, wenn Sie ihn aktivieren.
@@ -2039,7 +2039,7 @@ ALARM_ALARM_REPEAT_DESC
 	SV	Med den här inställningen väljer du om alarmet ska ringa mer än en gång. Om du anger Nej avaktiveras alarmet automatiskt när det har ringt. Alarmet ringer sedan inte igen förrän du aktiverar det igen.
 
 ALARM_ALL_ALARMS
-	BE	XXX
+	BE	Усе будзільнікі
 	CS	Všechny budíky
 	DA	Alle vækkeure
 	DE	Alle Wecker
