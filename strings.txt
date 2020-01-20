@@ -2055,7 +2055,7 @@ ALARM_ALL_ALARMS
 	SV	Alla alarm
 
 ALARM_ALARMS_ENABLED_DESC
-	BE	XXX
+	BE	З дапамогай гэтай налады вы можаце ўключыць/выключыць усе будзільнікі разам.
 	CS	Toto nastavení vám umožňuje zapnout/vypnout všechny budíky najednou. Je-li nastaveno na Vypnuto, nespustí se žádný budík.
 	DA	Denne indstilling bruges til at slå alle vækkeure til/fra samtidig. Hvis den står på Fra, vil ingen af vækkeurene ringe.
 	DE	Mit dieser Einstellung können Sie alle Wecker gleichzeitig aktivieren bzw. deaktivieren. Ist die Einstellung 'Aus', wird kein Wecker ausgelöst.
@@ -2071,7 +2071,7 @@ ALARM_ALARMS_ENABLED_DESC
 	SV	Med den här inställningen kan du aktivera/avaktivera alla alarm på en gång.Om du väljer inställningen Av avaktiveras alla alarm.
 
 ALARM_FADE
-	BE	XXX
+	BE	Павялічыць гучнасць будзільнікаў
 	CS	Zesilování budíku
 	DA	Skru langsomt op for vækkeur
 	DE	Weckerwiedergabe einblenden
@@ -2089,7 +2089,7 @@ ALARM_FADE
 	ZH_CN	闹钟缓慢切入
 
 ALARM_SET_TIME
-	BE	XXX
+	BE	Наладзіць час
 	CS	Nastavte čas
 	DA	Indstil uret
 	DE	Zeit einrichten
@@ -2105,7 +2105,7 @@ ALARM_SET_TIME
 	SV	Ställ klockan
 
 ALARM_SET_DAYS
-	BE	XXX
+	BE	Абраць дні
 	CS	Vyberte dny
 	DA	Vælg dage
 	DE	Tage wählen
@@ -2121,7 +2121,7 @@ ALARM_SET_DAYS
 	SV	Välj dagar
 
 ALARM_SAVING
-	BE	XXX
+	BE	Захаванне будзільніка...
 	CS	Ukládání budíku...
 	DA	Gemmer vækkeur...
 	DE	Wecker wird gespeichert...
@@ -2137,7 +2137,7 @@ ALARM_SAVING
 	SV	Sparar alarm...
 
 ALARM_DELETING
-	BE	XXX
+	BE	Выдаленне будзільніка...
 	CS	Odstraňování budíku...
 	DA	Sletter vækkeur...
 	DE	Wecker wird entfernt...
@@ -2153,7 +2153,7 @@ ALARM_DELETING
 	SV	Tar bort alarm...
 
 ALARM_NOW_PLAYING
-	BE	XXX
+	BE	Гучыць будзільнік
 	CS	Právě hraje budík
 	DA	Vækkeuret spiller nu
 	DE	Aktuelle Wecker-Wiedergabe
@@ -2173,7 +2173,7 @@ ALARM_NOW_PLAYING
 	ZH_CN	闹钟播放中
 
 ALARM_SNOOZE
-	BE	XXX
+	BE	Паўтарыць будзільнік...
 	CS	Opakovaný budík...
 	DA	Slumrer...
 	DE	Weckwiederholung aktiv...
@@ -2189,7 +2189,7 @@ ALARM_SNOOZE
 	SV	Aktiverar snoozefunktion...
 
 ALARM_SNOOZE_ENDED
-	BE	XXX
+	BE	Адключыць паўтор будзільніка
 	CS	Opakovaný budík ukončen
 	DA	Slumrefunktionen er slut
 	DE	Weckwiederholung beendet
@@ -2205,7 +2205,7 @@ ALARM_SNOOZE_ENDED
 	SV	Snoozefunktion avslutad
 
 SETUP_SNOOZE_MINUTES
-	BE	XXX
+	BE	Паўтарыць будзільнік (праз хві.)
 	CS	Doba opakování budíku (v minutách)
 	DA	Længde af slumretid (i minutter)
 	DE	Länge der Weckwiederholung (in Minuten)
@@ -2221,7 +2221,7 @@ SETUP_SNOOZE_MINUTES
 	SV	Snoozetid (i minuter)
 
 SETUP_SNOOZE_MINUTES_DESC
-	BE	XXX
+	BE	З дапамогай гэтай налады вы можаце абраць працягласць паўзы будзільніка, калі націснеце на "Паўтарыць будзільнік".
 	CS	Toto nastavení vám umožňuje zvolit dobu, po kterou je budík přerušen, když stisknete tlačítko Přerušovaný budík.
 	DA	Du bruger denne indstilling til at angive hvor lang tid vækkeuret skal være midlertidigt slukket når du trykker på slumreknappen.
 	DE	Mit dieser Einstellung können Sie bestimmen, nach welcher Zeit nach dem Drücken der Snooze-Taste der Wecker wiederholt wird.
@@ -2237,7 +2237,7 @@ SETUP_SNOOZE_MINUTES_DESC
 	SV	Med den här inställningen anger du hur länge alarmet ska avaktiveras när du trycker på snoozeknappen.
 
 SETUP_ALARM_TIMEOUT
-	BE	XXX
+	BE	Працягласць сігнала будзільніка (у хвілінах)
 	CS	Doba do vypnutí budíku (v minutách)
 	DA	Sluk efter (i minutter)
 	DE	Weckerlaufzeit (in Minuten)
