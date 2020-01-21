@@ -168,7 +168,7 @@ WELCOME_MESSAGE
 	EN	Rock your world!
 
 SQUEEZENETWORK_WELCOME
-	BE	Ваш прайгравальнік зарэгістраваны. Націсніце ДАЛЕЙ.
+	BE	Ваш плэер зарэгістраваны. Націсніце ДАЛЕЙ.
 	DA	Nu er afspilleren registreret; tryk højre for at begynde.
 	DE	Der Player ist registriert, drücken Sie RECHTS!
 	EN	Your player is now registered. Press RIGHT to begin!
@@ -181,7 +181,7 @@ SQUEEZENETWORK_WELCOME
 	SV	Spelaren är nu registrerad! Tryck höger för att komma igång.
 
 SETUP_GROUP_MENUITEMS
-	BE	Налада хатняга меню
+	BE	Налада галоўнага меню
 	CS	Úprava nabídky Doma
 	DA	Tilpasning af hovedmenuen
 	DE	Anpassen des Hauptmenüs
@@ -198,7 +198,7 @@ SETUP_GROUP_MENUITEMS
 	SV	Anpassning av startmenyn
 
 SETUP_PLAYER_CODE
-	BE	PIN-код прайгравальніка
+	BE	PIN-код плэера
 	DA	Afspillerens pinkode
 	DE	Player-PIN
 	EN	Player PIN
@@ -226,7 +226,7 @@ PRESS_TO_CONTINUE
 	SV	Tryck höger för att fortsätta
 
 PRESS_TO_SELECT
-	BE	(Каб выбраць, націсніце ДАЛЕЙ)
+	BE	(Каб абраць, націсніце ДАЛЕЙ)
 	DA	(Tryk på højre for at vælge)
 	DE	(Zum Auswählen RECHTS drücken)
 	EN	(Press RIGHT to select)
@@ -240,7 +240,7 @@ PRESS_TO_SELECT
 	SV	(Tryck höger för att välja)
 
 PRESS_TO_SELECT_SHORT
-	BE	(ДАЛЕЙ каб выбраць)
+	BE	(ДАЛЕЙ каб абраць)
 	DA	(Højre for at vælge)
 	DE	(zum Auswählen RECHTS drücken)
 	EN	(RIGHT to select)
@@ -254,7 +254,7 @@ PRESS_TO_SELECT_SHORT
 	SV	(höger för att välja)
 
 SELECTED
-	BE	(выбрана)
+	BE	(абрана)
 	DA	(valgt)
 	DE	(ausgewählt)
 	EN	(selected)
@@ -1362,7 +1362,7 @@ SQUEEZENETWORK_SIGNUP_BOOMCAT
 	SV	Registrera dig på boom.mysqueezebox.com
 
 SQUEEZENETWORK_PIN
-	BE	PIN-код прайгравальніка: %s
+	BE	PIN-код плэера: %s
 	DA	Afspillerens pinkode: %s
 	DE	Player-PIN: %s
 	EN	Player PIN: %s
@@ -1404,7 +1404,7 @@ SQUEEZENETWORK_ERROR
 	SV	mysqueezebox.com-fel
 
 INVALID_MAC
-	BE	Праблема: Патрэбна скінуть MAC-адрас прайгравальніка. Для дапамогі наведайце www.mysqueezebox.com/support.
+	BE	Праблема: Патрэбна скінуть MAC-адрас плэера. Для дапамогі наведайце www.mysqueezebox.com/support.
 	DA	Problem: Afspillerens MAC-adresse skal nulstilles. Du bedes kontakte www.mysqueezebox.com/support for at få hjælp.
 	DE	Problem: Die MAC-Adresse des Player muss zurückgesetzt werden. Besuchen Sie bitte www.mysqueezebox.com/support.
 	EN	Problem: Your player needs to have its MAC address reset. Please visit www.mysqueezebox.com/support for assistance.
@@ -1418,7 +1418,7 @@ INVALID_MAC
 	SV	Problem: Spelarens MAC-adress behöver återställas. Kontakta supportavdelningen (www.mysqueezebox.com/support).
 
 PLAYLIST_NO_ITEMS_FOUND
-	BE	Памылка: Спіс прайгравання пусты
+	BE	Памылка: Плэй-ліст пусты
 	CS	Chyba: V seznamu skladeb nebyly nalezeny žádné položky
 	DA	Fejl: Der er ikke noget på afspilningslisten
 	DE	Fehler: Wiedergabeliste ist leer
@@ -1435,7 +1435,7 @@ PLAYLIST_NO_ITEMS_FOUND
 	SV	Fel: Spellistan är tom.
 
 PLAYLIST_PROBLEM_CONNECTING
-	BE	Памылка: Немагчыма падключыцца, каб атрымаць спіс прайгравання
+	BE	Памылка: Немагчыма падключыцца, каб атрымаць плэй-ліст
 	CS	Chyba: Nelze se připojit a načíst seznam skladeb
 	DA	Fejl: Kan ikke tilslutte for at hente spillelisten
 	DE	Fehler: Herstellen einer Verbindung zum Laden der Wiedergabeliste nicht möglich
@@ -1452,7 +1452,7 @@ PLAYLIST_PROBLEM_CONNECTING
 	SV	Fel: Kan inte ansluta för att hämta spellista
 
 PLAYLIST_NOT_A_PLAYLIST
-	BE	Памылка: URL не мае спісу прайгравання
+	BE	Памылка: URL не мае плэй-ліста
 	DA	Fejl: Adressen henviser ikke til en afspilningsliste
 	DE	Fehler: URL ist keine Wiedergabeliste.
 	EN	Error: URL doesn't appear to be a playlist
@@ -1466,7 +1466,7 @@ PLAYLIST_NOT_A_PLAYLIST
 	SV	Fel: URL:en verkar inte vara en spellista
 
 SYNC_FIRMWARE_UPGRADE_REQUIRED
-	BE	Патрабуецца абнаўленне праграмнага забеспячэння
+	BE	Патрабуецца аднаўленне праграмнага забеспячэння
 	DA	Det er nødvendigt at opdatere softwaren
 	DE	Software muss aktualisiert werden
 	EN	Software Update Required
@@ -1480,7 +1480,7 @@ SYNC_FIRMWARE_UPGRADE_REQUIRED
 	SV	Uppdatering av den inbyggda programvaran krävs
 
 SYNC_FIRMWARE_UPGRADE
-	BE	Для ўключэння падтрымкі сінхранізацыі, націсніце і ўтрымлівайце ЯРКАСЦЬ, каб аднавіць усе аднаўляемыя прайгравальнікі.
+	BE	Для ўключэння падтрымкі сінхранізацыі, націсніце і ўтрымлівайце ЯРКАСЦЬ, каб аднавіць усе аднаўляемыя плэеры.
 	DA	Hvis du vil aktivere understøttelse af synkronisering, skal du holde lysstyrkeknappen nede sådan at alle de afspillere der skal synkroniseres, kan blive opdateret.
 	DE	Halten Sie zum Aktivieren der Synchronisierung BRIGHTNESS gedrückt, um alle zu synchronisierenden Player zu aktualisieren.
 	EN	To enable sync support, press and hold BRIGHTNESS to update on all players you wish to sync.
@@ -1530,7 +1530,7 @@ INFORMATION_SN_ACCOUNT
 	SV	Konto
 
 DISABLED_PLAYER
-	BE	Гэты прайгравальнік адключаны. Калі ласка, звяжыцеся з %s
+	BE	Гэты плэер адключаны. Калі ласка, звяжыцеся з %s
 	EN	This player is disabled. Please contact %s
 
 ERROR_RATE_LIMITED
