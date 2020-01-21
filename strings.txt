@@ -2253,7 +2253,7 @@ SETUP_ALARM_TIMEOUT
 	SV	Tidsgräns för alarm (i minuter)
 
 SETUP_ALARM_TIMEOUT_DESC
-	BE	XXX
+	BE	З дапамогай гэтай налады вы можаце абраць працягласць званка будзільніка да яго аўтаматычнаго адключэння. Калі абраць 0, будзільнік будзе можна выключыць толькі рукамі.
 	CS	Toto nastavení vám umožňuje zvolit, jak dlouho budou budíky hrát, než se automaticky vypnou. Pokud je nastaveno na 0, budíky budou hrát, dokud nebudou zastaveny ručně.
 	DA	Denne indstilling bruges til at angive hvor længe vækkeuret skal ringe/spille før det automatisk slukkes. Hvis du vælger 0 (nul), ringer/spiller det indtil du slukker det manuelt.
 	DE	Hier können Sie bestimmen, wie lange ein Wecker läuft, bevor er automatisch beendet wird. Ist der Wert 0, läuft der Wecker, bis er manuell beendet wird.
@@ -2269,7 +2269,7 @@ SETUP_ALARM_TIMEOUT_DESC
 	SV	Med den här inställningen anger du hur länge alarmen ringer innan de stängs av automatiskt. Om du anger 0 ringer alarmen tills de stängs av manuellt.
 
 ALARM_STOPPED
-	BE	XXX
+	BE	Будзільнік выключаны
 	CS	Budík zastaven
 	DA	Vækkeuret er stoppet
 	DE	Wecker angehalten
@@ -2285,7 +2285,7 @@ ALARM_STOPPED
 	SV	Alarm stoppat
 
 ALARM_EVERY_DAY
-	BE	XXX
+	BE	Штодня
 	CS	Každý den
 	DA	Dagligt
 	DE	Täglich
@@ -2303,7 +2303,7 @@ ALARM_EVERY_DAY
 	ZH_CN	每一天
 
 ALARM_DAY0
-	BE	XXX
+	BE	Нядзеля
 	CS	Neděle
 	DA	Søndag
 	DE	Sonntag
@@ -2321,7 +2321,7 @@ ALARM_DAY0
 	ZH_CN	星期日
 
 ALARM_DAY1
-	BE	XXX
+	BE	Панядзелак
 	CS	Pondělí
 	DA	Mandag
 	DE	Montag
@@ -2339,7 +2339,7 @@ ALARM_DAY1
 	ZH_CN	星期一
 
 ALARM_DAY2
-	BE	XXX
+	BE	Аўторак
 	CS	Úterý
 	DA	Tirsdag
 	DE	Dienstag
@@ -2357,7 +2357,7 @@ ALARM_DAY2
 	ZH_CN	星期二
 
 ALARM_DAY3
-	BE	XXX
+	BE	Серада
 	CS	Středa
 	DA	Onsdag
 	DE	Mittwoch
@@ -2375,7 +2375,7 @@ ALARM_DAY3
 	ZH_CN	星期三
 
 ALARM_DAY4
-	BE	XXX
+	BE	Чацвер
 	CS	Čtvrtek
 	DA	Torsdag
 	DE	Donnerstag
@@ -2393,7 +2393,7 @@ ALARM_DAY4
 	ZH_CN	星期四
 
 ALARM_DAY5
-	BE	XXX
+	BE	Пятніца
 	CS	Pátek
 	DA	Fredag
 	DE	Freitag
@@ -2411,7 +2411,7 @@ ALARM_DAY5
 	ZH_CN	星期五
 
 ALARM_DAY6
-	BE	XXX
+	BE	Субота
 	CS	Sobota
 	DA	Lørdag
 	DE	Samstag
@@ -2429,7 +2429,7 @@ ALARM_DAY6
 	ZH_CN	星期六
 
 ALARM_SHORT_DAY_0
-	BE	XXX
+	BE	Ня
 	CS	Ne
 	DA	Søn
 	DE	So
@@ -2445,7 +2445,7 @@ ALARM_SHORT_DAY_0
 	SV	Sö
 
 ALARM_SHORT_DAY_1
-	BE	XXX
+	BE	Па
 	CS	Mo
 	DA	Man
 	DE	Mo
@@ -2461,7 +2461,7 @@ ALARM_SHORT_DAY_1
 	SV	Må
 
 ALARM_SHORT_DAY_2
-	BE	XXX
+	BE	Аў
 	CS	Út
 	DA	Tir
 	DE	Di
@@ -2477,7 +2477,7 @@ ALARM_SHORT_DAY_2
 	SV	Ti
 
 ALARM_SHORT_DAY_3
-	BE	XXX
+	BE	Се
 	CS	My
 	DA	Ons
 	DE	Mi
@@ -2493,7 +2493,7 @@ ALARM_SHORT_DAY_3
 	SV	On
 
 ALARM_SHORT_DAY_4
-	BE	XXX
+	BE	Ча
 	CS	Čt
 	DA	Tor
 	DE	Do
@@ -2509,7 +2509,7 @@ ALARM_SHORT_DAY_4
 	SV	To
 
 ALARM_SHORT_DAY_5
-	BE	XXX
+	BE	Пя
 	CS	Pá
 	DA	Fre
 	DE	Fr
@@ -2525,7 +2525,7 @@ ALARM_SHORT_DAY_5
 	SV	Fr
 
 ALARM_SHORT_DAY_6
-	BE	XXX
+	BE	Су
 	CS	So
 	DA	Lør
 	DE	Sa
@@ -2541,7 +2541,7 @@ ALARM_SHORT_DAY_6
 	SV	Lö
 
 SLIMP3
-	BE	XXX
+	BE	SLIMP3
 	CS	SLIMP3
 	DA	SLIMP3
 	DE	SLIMP3
@@ -2558,7 +2558,7 @@ SLIMP3
 	SV	SLIMP3
 
 SQUEEZEBOX
-	BE	XXX
+	BE	Squeezebox
 	CS	Squeezebox
 	DA	Squeezebox
 	DE	Squeezebox
@@ -2575,7 +2575,7 @@ SQUEEZEBOX
 	SV	Squeezebox
 
 SQUEEZEBOX2
-	BE	XXX
+	BE	Squeezebox2/вер. 3
 	CS	Squeezebox2/v3
 	DA	Squeezebox2/v3
 	DE	Squeezebox2/v3
@@ -2592,7 +2592,7 @@ SQUEEZEBOX2
 	SV	Squeezebox 2/v3
 
 TRANSPORTER
-	BE	XXX
+	BE	Transporter
 	CS	Transporter
 	DA	Transporter
 	DE	Transporter
@@ -2609,7 +2609,7 @@ TRANSPORTER
 	SV	Transporter
 
 SOFTSQUEEZE
-	BE	XXX
+	BE	SoftSqueeze
 	CS	SoftSqueeze
 	DA	SoftSqueeze
 	DE	SoftSqueeze
@@ -2626,7 +2626,7 @@ SOFTSQUEEZE
 	SV	SoftSqueeze
 
 WELCOME_TO_SLIMP3
-	BE	XXX
+	BE	Вітаем на SLIMP3!
 	CS	Vítejte v SLIMP3
 	DA	Velkommen til SLIMP3
 	DE	Willkommen bei SLIMP3!
@@ -2646,7 +2646,7 @@ WELCOME_TO_SLIMP3
 	ZH_CN	欢迎使用SLIMP3
 
 WELCOME_TO_SQUEEZEBOX_SERVER
-	BE	XXX
+	BE	Вітаем на Logitech Media Server!
 	CS	Vítejte do Logitech Media Server
 	DA	Velkommen til Logitech Media Server
 	DE	Willkommen bei Logitech Media Server
@@ -2666,7 +2666,7 @@ WELCOME_TO_SQUEEZEBOX_SERVER
 	ZH_CN	欢迎使用Logitech Media Server
 
 WELCOME_TO_SQUEEZEBOX
-	BE	XXX
+	BE	Вітаем на Squeezebox!
 	CS	Vítejte ve Squeezeboxu
 	DA	Velkommen til Squeezebox
 	DE	Willkommen bei Squeezebox
@@ -2686,7 +2686,7 @@ WELCOME_TO_SQUEEZEBOX
 	ZH_CN	欢迎使用Squeezebox
 
 WELCOME_TO_SQUEEZEBOX2
-	BE	XXX
+	BE	Вітаем на Squeezebox2!
 	CS	Vítejte ve Squeezeboxu
 	DA	Velkommen til Squeezebox
 	DE	Willkommen bei Squeezebox
@@ -2706,7 +2706,7 @@ WELCOME_TO_SQUEEZEBOX2
 	ZH_CN	欢迎使用Squeezebox
 
 WELCOME_TO_TRANSPORTER
-	BE	XXX
+	BE	Вітаем на Transporter!
 	CS	Vítejte v Transporteru
 	DA	Velkommen til Transporter
 	DE	Willkommen bei Transporter
@@ -2726,7 +2726,7 @@ WELCOME_TO_TRANSPORTER
 	ZH_CN	欢迎使用Transporter
 
 WELCOME_TO_SOFTSQUEEZE
-	BE	XXX
+	BE	Вітаем на SoftSqueeze!
 	CS	Vítejte v SoftSqueeze
 	DA	Velkommen til SoftSqueeze
 	DE	Willkommen bei SoftSqueeze
@@ -2746,7 +2746,7 @@ WELCOME_TO_SOFTSQUEEZE
 	ZH_CN	欢迎使用SoftSqueeze
 
 WELCOME_TO_RECEIVER
-	BE	XXX
+	BE	Вітаем на Squeezebox!
 	CS	Vítejte ve Squeezeboxu
 	DA	Velkommen til Squeezebox
 	DE	Willkommen bei Squeezebox
@@ -2762,7 +2762,7 @@ WELCOME_TO_RECEIVER
 	SV	Välkommen till Squeezebox!
 
 WELCOME_TO_SQUEEZESLAVE
-	BE	XXX
+	BE	Вітаем на SqueezeSlave!
 	CS	Vítejte ve SqueezeSlave
 	DA	Velkommen til SqueezeSlave
 	DE	Willkommen bei SqueezeSlave
@@ -2778,7 +2778,7 @@ WELCOME_TO_SQUEEZESLAVE
 	SV	Välkommen till SqueezeSlave!
 
 WELCOME_TO_BOOM
-	BE	XXX
+	BE	Вітаем на Squeezebox!
 	CS	Vítejte ve Squeezeboxu
 	DA	Velkommen til Squeezebox
 	DE	Willkommen bei Squeezebox
@@ -2794,7 +2794,7 @@ WELCOME_TO_BOOM
 	SV	Välkommen till Squeezebox!
 
 WELCOME_TO_SQUEEZEPLAY
-	BE	XXX
+	BE	Вітаем на SqueezePlay!
 	CS	Vítejte ve SqueezePlay
 	DA	Velkommen til SqueezePlay
 	DE	Willkommen bei SqueezePlay!
@@ -2810,7 +2810,7 @@ WELCOME_TO_SQUEEZEPLAY
 	SV	Välkommen till SqueezePlay
 
 WELCOME_TO_CONTROLLER
-	BE	XXX
+	BE	Вітаем на Controller!
 	CS	Vítejte v Ovladači
 	DA	Velkommen til Controller
 	DE	Willkommen bei Controller!
@@ -2826,7 +2826,7 @@ WELCOME_TO_CONTROLLER
 	SV	Välkommen till Controller
 
 LOGIN
-	BE	XXX
+	BE	Уваход
 	CS	Zaregistrovat
 	DA	Log på
 	DE	Anmelden
