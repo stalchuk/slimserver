@@ -3574,7 +3574,7 @@ XML_AUDIO_ENCLOSURES
 	ZH_CN	音频框架
 
 XML_FEED_DESCRIPTION
-	BE	Інфармацыя аб гытым канале
+	BE	Інфармацыя аб гэтым канале
 	CS	O tomto kanálu
 	DA	Om dette feed
 	DE	Infos über diesen Feed
@@ -25218,8 +25218,8 @@ PRESET_ADDING
 	ZH_CN	保存最喜爱的...
 
 PRESET_HOLD_TO_SAVE
-	BE	XXX
 # SLT: instruction for the user to hold the button if he wants to save that preset
+	BE	Налада #%s (націснуць і ўтрымліваць, каб захаваць)
 	CS	Přednastavit #%s (pro uložení přidržte)
 	DA	Fast indstilling #%s (hold knappen nede for at gemme)
 	DE	Voreinstellung #%s (zum Speichern gedrückt halten)
@@ -25235,8 +25235,8 @@ PRESET_HOLD_TO_SAVE
 	SV	Förinställning av #%s (håll ner för att spara)
 
 PRESET
-	BE	XXX
 # SLT: a preset button on eg. the Radio
+	BE	Налада #%s
 	CS	Prednastavení #%s
 	DA	Fast indstilling #%s
 	DE	Voreinstellung #%s
@@ -25252,7 +25252,7 @@ PRESET
 	SV	Förinställning av #%s
 
 USB
-	BE	XXX
+	BE	USB
 	CS	Rozhraní USB
 	DA	USB
 	DE	USB
@@ -25268,7 +25268,7 @@ USB
 	SV	USB-port
 
 SD
-	BE	XXX
+	BE	SD-карта
 	CS	SD karta
 	DA	SD-kort
 	DE	SD-Karte
@@ -25284,8 +25284,8 @@ SD
 	SV	SD-kort
 
 RETRYING
-	BE	XXX
 # SLT: keep this short
+	BE	Падключэнне страчана. Новае падключэнне...
 	CS	Chyba připojení, připojuji znovu...
 	DA	Forbindelse mistet, prøver igen...
 	DE	Verbindung unterbrochen, wiederholen...
@@ -25301,8 +25301,8 @@ RETRYING
 	SV	Anslutning bröts. Försöker igen...
 
 RETRY_LIMIT_EXCEEDED
-	BE	XXX
 # SLT: keep this short
+	BE	Паўторная спроба падключэння скончылася няўдачна
 	CS	Pokusy o připojení selhaly
 	DA	Kunne ikke forbinde
 	DE	Erneute Verbindung fehlgeschlagen
@@ -25318,7 +25318,7 @@ RETRY_LIMIT_EXCEEDED
 	SV	Anslutningsförsök misslyckades
 
 SYNC_ABOUT
-	BE	XXX
+	BE	Дадайце адзін або некалькі плэераў Squeezebox, каб карыстацца функцыяй сінхранізацыі і рэалізаваць поўны патэнцыял шматпакаёвай аўдыёсістемы. Дадатковая інфармація на сайце Logitech.com.
 	CS	Pomocí funkce synchronizace přidejte jedno nebo více zařízení Squeezebox a využijte plný potenciál zvuku pokrývající více místností. Další informace naleznete na stránce Logitech.com.
 	DA	Tilføj en eller flere Squeezeboxe så du kan bruge funktionen Synkronisering, og få fuld udbytte af lyden i flere rum. Du kan finde flere oplysninger på Logitech.com.
 	DE	Fügen Sie eine oder mehrere Squeezeboxen hinzu, um die Synchronisierungsfunktion zu verwenden und das volle Potenzial eines Audiosystems für mehrere Räume zu nutzen. Weitere Informationen erhalten Sie unter www.logitech.com.
@@ -25334,7 +25334,7 @@ SYNC_ABOUT
 	SV	Om du lägger till en eller flera ytterligare Squeezebox-enheter kan du använda synkroniseringsfunktionen och njuta fullt ut av ljud i flera rum. Du hittar mer information på Logitech.com.
 
 SERVICE_REQUIRES_HTTPS
-	BE	XXX
+	BE	Гэты сервіс патрабуе IO::Socket::SSL Perl модуль! Без гэтага модулю карыстанне сэрвісам немагчыма. Калі ласка, усталюйце модуль пры дапамозе праграмнага менеджэра вашай аперацыйная сістемы.
 	DE	Dieser Dienst benötigt das Perl Modul IO::Socket::SSL! Ohne dieses Modul ist die Nutzung diese Dienstes nicht möglich. Bitte benutzen Sie den Paket-Manager ihres Betriebssystems um es zu installieren.
 	EN	This service requires the Perl module IO::Socket::SSL. You can not use this service without that module. Please use your operating system's package manager to install it.
 
