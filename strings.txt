@@ -79,7 +79,7 @@ LOCALE
 	ZH_CN	zh
 
 CREDITS
-	BE	Sergey Talchuk
+	BE	Sergey Talchuk, Julia Zaverach
 	CS	Roman Smetak
 	DA	Ulrik Mehr, Morten Fischer-Madsen
 	DE	Melkon Torosyan, Thorsten Faltings, Michael Herger
@@ -220,7 +220,7 @@ DEFAULT_SKIN
 	ZH_CN	缺省
 
 SCREENREADER_SKIN
-	BE	Счытвальнік экрана
+	BE	Тэкставы рэжым
 	CS	Čtečka obrazovky
 	DA	Skærmaflæser
 	DE	Screen Reader
@@ -308,7 +308,7 @@ DATABASE_VERSION
 	SV	Databasversion
 
 PLAYER_VERSION
-	BE	Версія прайгравальніка
+	BE	Версія плэера
 	CS	Verze firmwaru přehrávače
 	DA	Afspillerens firmwareversion
 	DE	Version der Player-Firmware
@@ -353,7 +353,7 @@ ABOUT_SLIMDEVICES
 #
 
 SLIMP3_HOME
-	BE	Хатняе мяню SLIMP3
+	BE	Галоўная старонка SLIMP3
 	CS	SLIMP3 Doma
 	DA	SLIMP3 Hovedmenu
 	DE	SLIMP3 Hauptmenü
@@ -373,7 +373,7 @@ SLIMP3_HOME
 	ZH_CN	SLIMP3主页
 
 SQUEEZEBOX_HOME
-	BE	Хатняе мяню Squeezebox
+	BE	Галоўная старонка Squeezebox
 	CS	Squeezebox Doma
 	DA	Squeezebox Hovedmenu
 	DE	Squeezebox-Hauptmenü
@@ -393,7 +393,7 @@ SQUEEZEBOX_HOME
 	ZH_CN	Squeezebox主页
 
 SQUEEZEBOX2_HOME
-	BE	Хатняе мяню Squeezebox2
+	BE	Галоўная старонка Squeezebox2
 	CS	Squeezebox Doma
 	DA	Squeezebox Hovedmenu
 	DE	Squeezebox-Hauptmenü
@@ -413,7 +413,7 @@ SQUEEZEBOX2_HOME
 	ZH_CN	Squeezebox主页
 
 TRANSPORTER_HOME
-	BE	Хатняе мяню Transporter
+	BE	Галоўная старонка Transporter
 	CS	Transporter Doma
 	DA	Transporter Hovedmenu
 	DE	Transporter-Hauptmenü
@@ -432,7 +432,7 @@ TRANSPORTER_HOME
 	SV	Transporter Hem
 
 SOFTSQUEEZE_HOME
-	BE	Хатняе мяню SoftSqueeze
+	BE	Галоўная старонка SoftSqueeze
 	CS	SoftSqueeze Doma
 	DA	SoftSqueeze Hovedmenu
 	DE	SoftSqueeze-Hauptmenü
@@ -452,7 +452,7 @@ SOFTSQUEEZE_HOME
 	ZH_CN	SoftSqueeze主页
 
 HOMEMENU
-	BE	Хатняе мяню
+	BE	Галоўная старонка
 	CS	Domů
 	DA	Hovedmenu
 	DE	Hauptmenü
@@ -739,7 +739,7 @@ GAMES
 	ZH_CN	游戏
 
 PLAYLIST
-	BE	Спіс прайгравання
+	BE	Плэй-ліст
 	CS	Seznam skladeb
 	DA	Afspilningsliste
 	DE	Wiedergabeliste
@@ -760,7 +760,7 @@ PLAYLIST
 
 PLAYLIST_SHORT
 #SLT: please keep this _very_ short. The German "Wiedergabeliste" is by far too long. This should be shorter than the English Playlist, as it's being used togethe with "Repeat" on one line of the small Controller display.
-	BE	Спіс
+	BE	Плэй-ліст
 	CS	Seznam
 	DA	liste
 	DE	Liste
@@ -777,7 +777,7 @@ PLAYLIST_SHORT
 	SV	Lista
 
 CURRENT_PLAYLIST
-	BE	Бягучы спіс прайгравання
+	BE	Бягучы плэй-ліст
 	CS	Aktuální seznam skladeb
 	DA	Aktiv afspilningsliste
 	DE	Aktuelle Wiedergabeliste
@@ -797,7 +797,7 @@ CURRENT_PLAYLIST
 	ZH_CN	当前播放表
 
 PLAYLISTS
-	BE	Спісы прайгравання
+	BE	Плэй-ліст
 	CS	Seznamy skladeb
 	DA	Afspilningslister
 	DE	Wiedergabelisten
@@ -855,7 +855,7 @@ STOPPED_ON
 	ZH_CN	停止
 
 NOW_PLAYING
-	BE	Грае...
+	BE	Гучыць...
 	CS	Právě hraje...
 	DA	Nu spiller
 	DE	Aktueller Titel
@@ -991,7 +991,7 @@ OUT_OF
 	ZH_CN	的
 
 PAUSED
-	BE	На паўзе
+	BE	Паўза
 	CS	Pozastaveno
 	DA	Pause
 	DE	Pause
@@ -1047,7 +1047,7 @@ ABOUT
 	ZH_CN	Logitech Media Server V.%s, 制作:
 
 REMOVING_FROM_PLAYLIST
-	BE	Выдаленне са спісу прайгравання:
+	BE	Выдаленне з плэй-ліста:
 	CS	Odstraňování ze seznamu skladeb:
 	DA	Fjerner fra afspilningslisten:
 	DE	Titel wird aus Wiedergabeliste entfernt:
@@ -1067,7 +1067,7 @@ REMOVING_FROM_PLAYLIST
 	ZH_CN	正在从播放表中删除：
 
 ZAPPING_FROM_PLAYLIST
-	BE	Перанесці у спіс "Ігнараваныя песні":
+	BE	Перанесці у плэй-ліст "Ігнараваныя песні":
 	CS	Přesun do seznamu přepínaných skladeb:
 	DA	Flytter til afspilningslisten med numre der er sprunget over:
 	DE	In die Liste 'Gezappte Titel' verschieben:
@@ -1107,7 +1107,7 @@ ZAPPED_SONGS
 	ZH_CN	已废弃的歌曲
 
 ADDING_TO_PLAYLIST
-	BE	Дадаць у канец спісу прайгравання:
+	BE	Дадаць у канец плэй-ліста:
 	CS	Přidat na konec seznamu skladeb:
 	DA	Føjer til slutningen af afspilningslisten:
 	DE	Am Ende der Wiedergabeliste hinzufügen:
@@ -1145,7 +1145,7 @@ ADDING_TO_PLAYLIST_DBL
 	ZH_CN	列入中
 
 INSERT_TO_PLAYLIST
-	BE	Дадаць і прайграць наступный:
+	BE	Дадаць і прайграць наступным:
 	CS	Přidat na přehrání jako další:
 	DA	Føjer til afspil næste gang:
 	DE	Einfügen und als nächstes spielen:
@@ -1241,7 +1241,7 @@ PLAYING_RANDOMLY_FROM_DBL
 	ZH_CN	随机抽样播放
 
 CLEARING_PLAYLIST
-	BE	Ачыстка спісу прайгравання...
+	BE	Ачыстка плэй-ліста...
 	CS	Čištění seznamu skladeb...
 	DA	Rydder afspilningsliste...
 	DE	Wiedergabeliste wird geleert ...
@@ -1281,7 +1281,7 @@ VIEWING_PLAYLIST
 	ZH_CN	播放中...
 
 PLAYLIST_EMPTY
-	BE	Спіс прайгравання пусты
+	BE	Плэй-ліст пусты
 	CS	Seznam skladeb je prázdný
 	DA	Afspilningslisten er tom
 	DE	Wiedergabeliste ist leer
@@ -1301,7 +1301,7 @@ PLAYLIST_EMPTY
 	ZH_CN	播放表为空
 
 PLAYLIST_CANT_WRITE
-	BE	Не ўдалося захаваць спіс прайгравання.
+	BE	Не ўдалося захаваць плей-ліст.
 	CS	Seznam skladeb nemohl být uložen.
 	DA	Afspilningslisten kunne ikke gemmes.
 	DE	Wiedergabeliste konnte nicht gespeichert werden.
@@ -1427,7 +1427,7 @@ REPEAT_ONE_ABBR
 	SV	Upprepa låt
 
 REPEAT_ALL
-	BE	Праіграць спіс яшчэ раз
+	BE	Праіграць плэй-ліст яшчэ раз
 	CS	Opakovat seznam skladeb
 	DA	Gentag afspilningsliste
 	DE	Wiedergabeliste wiederholen
@@ -1691,7 +1691,7 @@ COLLAPSE
 	SV	Komprimera
 
 UNDOCK_PLAYER_PANEL
-	BE	Адкрыйце панэль прайгравальніка ў іншым акне
+	BE	Адкрыйце панэль плэйера ў іншым акне
 	CS	Vyjmout panel přehrávače
 	DA	Frigør afspillerpanelet
 	DE	Player Panel in eigenem Fenster öffnen
@@ -1815,7 +1815,7 @@ ALARM_SELECT_PLAYLIST
 	SV	Larmsignal
 
 ALARM_USE_CURRENT_PLAYLIST
-	BE	Выкарыстоўваць бягучы спіс прайгравання
+	BE	Выкарыстоўваць бягучы плэй-ліст
 	CS	Použít aktuální seznam skladeb
 	DA	Brug nuværende afspilningsliste
 	DE	Aktuelle Wiedergabeliste verwenden
@@ -1847,7 +1847,7 @@ ALARM_VOLUME
 	SV	Alarmvolym
 
 ALARM_VOLUME_DESC
-	BE	З дапамогай гэтай налады вы можаце ўсталяваць гучнасць для будзільніка.
+	BE	З дапамогай гэтай налады вы можаце ўсталяваць гучнасць будзільніка.
 	CS	Toto nastavení vám dovoluje zvolit úroveň hlasitosti, která bude použita při spuštění budíku.
 	DA	Du bruger denne indstilling til at angive hvor højt vækkeuret skal ringe/spille.
 	DE	Mit dieser Einstellung können Sie die Lautstärke für den Wecker festlegen.
