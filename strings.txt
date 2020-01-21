@@ -393,7 +393,7 @@ SQUEEZEBOX_HOME
 	ZH_CN	Squeezebox主页
 
 SQUEEZEBOX2_HOME
-	BE	Галоўная старонка Squeezebox2
+	BE	Галоўная старонка Squeezebox
 	CS	Squeezebox Doma
 	DA	Squeezebox Hovedmenu
 	DE	Squeezebox-Hauptmenü
@@ -2686,7 +2686,7 @@ WELCOME_TO_SQUEEZEBOX
 	ZH_CN	欢迎使用Squeezebox
 
 WELCOME_TO_SQUEEZEBOX2
-	BE	Вітаем на Squeezebox2!
+	BE	Вітаем на Squeezebox!
 	CS	Vítejte ve Squeezeboxu
 	DA	Velkommen til Squeezebox
 	DE	Willkommen bei Squeezebox
@@ -2842,7 +2842,7 @@ LOGIN
 	SV	Logga in
 
 FREE_YOUR_MUSIC
-	BE	XXX
+	BE	Свабоду музыцы!
 	CS	Odvaž svou hudbu
 	DA	Lyt til din musik!
 	DE	Befreien Sie Ihre Musik
@@ -2862,7 +2862,7 @@ FREE_YOUR_MUSIC
 	ZH_CN	释放您的音乐！
 
 UPDATING_FIRMWARE_SQUEEZEBOX
-	BE	XXX
+	BE	Аднаўленне прашыўкі Squeezebox.
 	CS	Aktualizace firmwaru Squeezebox.
 	DA	Opdaterer Squeezebox-firmware.
 	DE	Squeezebox-Firmware wird aktualisiert ...
@@ -2882,7 +2882,7 @@ UPDATING_FIRMWARE_SQUEEZEBOX
 	ZH_CN	更新Squeezebox韧件
 
 UPDATING_FIRMWARE_SQUEEZEBOX2
-	BE	XXX
+	BE	Аднаўленне прашыўкі Squeezebox.
 	CS	Aktualizace firmwaru Squeezebox.
 	DA	Opdaterer Squeezebox-firmware.
 	DE	Squeezebox-Firmware wird aktualisiert ...
@@ -2902,7 +2902,7 @@ UPDATING_FIRMWARE_SQUEEZEBOX2
 	ZH_CN	更新Squeezebox韧件
 
 UPDATING_FIRMWARE_TRANSPORTER
-	BE	XXX
+	BE	Аднаўленне прашыўкі Transporter.
 	CS	Aktualizace firmwaru Transporter.
 	DA	Opdaterer Transporter-firmware.
 	DE	Transporter-Firmware wird aktualisiert...
@@ -2922,7 +2922,7 @@ UPDATING_FIRMWARE_TRANSPORTER
 	ZH_CN	更新Transporter韧件
 
 UPDATING_FIRMWARE_RECEIVER
-	BE	XXX
+	BE	Аднаўленне прашыўкі Squeezebox.
 	CS	Aktualizace firmwaru Squeezebox .
 	DA	Opdaterer Squeezebox-firmware.
 	DE	Squeezebox-Firmware wird aktualisiert...
@@ -2938,7 +2938,7 @@ UPDATING_FIRMWARE_RECEIVER
 	SV	Uppdaterar Squeezebox-spelarens inbyggda programvara.
 
 UPDATING_FIRMWARE_BOOM
-	BE	XXX
+	BE	Аднаўленне прашыўкі.
 	CS	Aktualizace firmwaru.
 	DA	Opdaterer firmware.
 	DE	Firmware wird aktualisiert.
@@ -2954,7 +2954,7 @@ UPDATING_FIRMWARE_BOOM
 	SV	Inbyggt program uppdateras
 
 FIRMWARE_MISSING
-	BE	XXX
+	BE	Памылка: Прашыўка адсутнічае
 	CS	Chyba: Chybí firmware
 	DA	Fejl: Manglende firmware
 	DE	Fehler: Firmware fehlt
@@ -2972,7 +2972,7 @@ FIRMWARE_MISSING
 	ZH_CN	失误：韧件丢失
 
 FIRMWARE_MISSING_DESC
-	BE	XXX
+	BE	Север не можа подключыцца к Інтернэту, каб запампаваць прашыўку.
 	CS	Server se nemůže připojit k Internetu a získat aktualizaci firmwaru.
 	DA	Serveren kan ikke etablere forbindelse til internettet og hente en opdatering af firmwaren.
 	DE	Der Server kann zum Laden eines Firmware-Update keine Internetverbindung herstellen.
@@ -2990,7 +2990,7 @@ FIRMWARE_MISSING_DESC
 	ZH_CN	服务器无法连接互联网并取得韧件更新。
 
 CHECKING_STREAM
-	BE	XXX
+	BE	Праверка патоку...
 	CS	Kontrola datového proudu...
 	DA	Kontrollerer stream...
 	DE	Datenstrom wird geprüft ...
@@ -3008,7 +3008,7 @@ CHECKING_STREAM
 	ZH_CN	检查频流
 
 GETTING_STREAM_INFO
-	BE	XXX
+	BE	Адтрыманне інфармацыі аб патоку...
 	CS	Získávání informací o proudu...
 	DA	Henter oplysninger om stream...
 	DE	Streaminfos werden geladen...
@@ -3025,7 +3025,7 @@ GETTING_STREAM_INFO
 	SV	Hämtar ströminformation...
 
 GETTING_TRACK_DETAILS
-	BE	XXX
+	BE	Адтрыманне інфармацыі аб дарожцы...
 	CS	Získávám podrobnosti o stopě...
 	DA	Henter detaljer om nummer...
 	DE	Titelinfos werden geladen...
@@ -3041,7 +3041,7 @@ GETTING_TRACK_DETAILS
 	SV	Hämtar spårinformation...
 
 CONNECTING_FOR
-	BE	XXX
+	BE	Падключэнне...
 	CS	Připojování...
 	DA	Opretter forbindelse...
 	DE	Verbindung wird hergestellt ...
@@ -3061,7 +3061,7 @@ CONNECTING_FOR
 	ZH_CN	连接中：
 
 BUFFERING
-	BE	XXX
+	BE	Буферызацыя...
 	CS	Načítání do vyrovnávací paměti
 	DA	Fylder buffer
 	DE	Puffer wird gefüllt ...
@@ -3079,7 +3079,7 @@ BUFFERING
 	ZH_CN	缓冲装载中
 
 REBUFFERING
-	BE	XXX
+	BE	Паўторная буферызація...
 	CS	Opakované načítání do vyrovnávací paměti...
 	DA	Fylder bufferlager...
 	DE	Puffer wird aktualisiert...
@@ -3096,7 +3096,7 @@ REBUFFERING
 	SV	Buffrar om...
 
 REBUFFERING_FAILED
-	BE	XXX
+	BE	Памылка буферызацыі
 	CS	Ukládání do paměti selhalo
 	DA	Gendannelse af bufferlager mislykkedes
 	DE	Puffer-Aktualisierungsfehler
@@ -3112,7 +3112,7 @@ REBUFFERING_FAILED
 	SV	Det gick inte att buffra om
 
 WAITING_TO_SYNC
-	BE	XXX
+	BE	Падкрыхтоўка сінхранізацыі...
 	CS	Čekám na synchronizaci...
 	DA	Venter på synkronisering...
 	DE	Synchronisierung wird vorbereitet ...
@@ -3130,7 +3130,7 @@ WAITING_TO_SYNC
 	ZH_CN	等待同步
 
 PROBLEM_CONNECTING
-	BE	XXX
+	BE	Праблема: Не ўдалося падключыцца к серверу за:
 	CS	Problém: Nelze se připojit k serveru pro:
 	DA	Problem: Der kan ikke etableres forbindelse til serveren for:
 	DE	Problem: Verbindung zum Server nicht möglich für:
@@ -3150,7 +3150,7 @@ PROBLEM_CONNECTING
 	ZH_CN	失误：无法连接上伺服器：
 
 PROBLEM_OPENING
-	BE	XXX
+	BE	Праблема: Не ўдалося адкрыць файл для:
 	CS	Problém: Nelze otevřít soubor pro:
 	DA	Problem: Kan ikke åbne filen:
 	DE	Problem: Datei kann nicht geöffnet werden für:
@@ -3170,7 +3170,7 @@ PROBLEM_OPENING
 	ZH_CN	失误：无法打开文件：
 
 PROBLEM_OPENING_REMOTE_URL
-	BE	XXX
+	BE	Памылка: Не ўдалося адкрыць аддалены URL
 	CS	Chyba: Nelze otevřít vzdálené URL
 	DA	Fejl: Den eksterne adresse kan ikke åbnes
 	DE	Fehler: Remote-URL kann nicht geöffnet werden.
@@ -3188,7 +3188,7 @@ PROBLEM_OPENING_REMOTE_URL
 	ZH_CN	失误：无法连接网址
 
 PROBLEM_CONVERT_FILE
-	BE	XXX
+	BE	Праблема: Не ўдаецца прайграць тып файлу для:
 	CS	Problém: Nelze přehrát typ souboru pro:
 	DA	Problem: Kan ikke afspille filetypen for:
 	DE	Problem: Dateityp kann nicht wiedergegeben werden für:
@@ -3204,7 +3204,7 @@ PROBLEM_CONVERT_FILE
 	SV	Problem: Det går inte att spela upp filtypen för:
 
 PROBLEM_CONVERT_FILE_WMA_LOSSLESS
-	BE	XXX
+	BE	Праблема: Для WMA Lossless патрэбна Windows
 	CS	Problém: Bezztrátový WMA vyžaduje Windows
 	DA	Problem: WMA Lossless kræver Windows
 	DE	Problem: Windows erforderlich für WMA Lossless
@@ -3220,7 +3220,7 @@ PROBLEM_CONVERT_FILE_WMA_LOSSLESS
 	SV	Problem: WMA Lossless kräver Windows
 
 PROBLEM_CONVERT_STREAM
-	BE	XXX
+	BE	Памылка пры пераўтварэнні патоку:
 	CS	Problém: Nelze převést proud:
 	DA	Problem: Streamen kan ikke konverteres:
 	DE	Fehler beim Konvertieren des Stream:
@@ -3236,7 +3236,7 @@ PROBLEM_CONVERT_STREAM
 	SV	Problem: Det gick inte att konvertera strömmen:
 
 PROBLEM_CONVERTING_STREAM
-	BE	XXX
+	BE	Памылка: Файл абаронены DRM:
 	CS	Chyba: DRM v souboru:
 	DA	Fejl: DRM-beskyttet fil:
 	DE	Fehler: DRM in Datei:
@@ -3252,7 +3252,7 @@ PROBLEM_CONVERTING_STREAM
 	SV	Fel: DRM i filen:
 
 PROBLEM_UNKNOWN_TYPE
-	BE	XXX
+	BE	Памылка: Невядомы тып файлу для:
 	CS	Chyba: Neznámý typ souboru pro:
 	DA	Fejl: Kan ikke genkende filtypen for:
 	DE	Fehler: Unbekannter Dateityp für:
@@ -3268,7 +3268,7 @@ PROBLEM_UNKNOWN_TYPE
 	SV	Fel: Okänd filtyp för:
 
 UNSUPPORTED_SAMPLE_RATE
-	BE	XXX
+	BE	Частата дыскрэтызацыі не падрымліваецца
 	CS	Nepodporovaná vzorkovací frekvence
 	DA	Samplefrekvens understøttes ikke
 	DE	Nicht unterstützte Sample-Rate
@@ -3284,7 +3284,7 @@ UNSUPPORTED_SAMPLE_RATE
 	SV	Samplingsfrekvensen stöds ej
 
 PLAYLIST_NO_ITEMS_FOUND
-	BE	XXX
+	BE	Памылка: плэй-ліст пусты
 	CS	Chyba: V seznamu skladeb nebyly nalezeny žádné položky
 	DA	Fejl: Der er ikke noget på afspilningslisten
 	DE	Fehler: Wiedergabeliste ist leer
@@ -3301,7 +3301,7 @@ PLAYLIST_NO_ITEMS_FOUND
 	SV	Fel: Spellistan är tom.
 
 PLAYLIST_PROBLEM_CONNECTING
-	BE	XXX
+	BE	Памылка: Немагчыма падключыцца, каб атрымаць плэй-ліст
 	DA	Fejl: Kan ikke tilslutte for at hente spillelisten
 	DE	Fehler: Herstellen einer Verbindung zum Laden der Wiedergabeliste nicht möglich
 	EN	Error: Can't connect to retrieve playlist
@@ -3315,7 +3315,7 @@ PLAYLIST_PROBLEM_CONNECTING
 	ZH_CN	失误：无法取得播放表
 
 ASF_UNABLE_TO_PARSE
-	BE	XXX
+	BE	Памылка: Немагчыма апрацаваць ASF-аўдыёпаток
 	CS	Chyba: Nelze zpracovat audio proud ASF
 	DA	Fejl: Kan ikke fortolke ASF-lydstream
 	DE	Fehler: ASF-Audiostream kann nicht verarbeitet werden
@@ -3333,7 +3333,7 @@ ASF_UNABLE_TO_PARSE
 	ZH_CN	失误：无法解析音频流
 
 HOME
-	BE	XXX
+	BE	Галоўная
 	CS	Domů
 	DA	Hovedmenu
 	DE	Hauptmenü
@@ -3353,7 +3353,7 @@ HOME
 	ZH_CN	主页
 
 STATUS
-	BE	XXX
+	BE	Статус
 	CS	Stav
 	DA	Status
 	DE	Status
@@ -3372,7 +3372,7 @@ STATUS
 	ZH_CN	状态
 
 SERVER
-	BE	XXX
+	BE	Сервер
 	CS	Server
 	DA	Server
 	DE	Server
@@ -3392,7 +3392,7 @@ SERVER
 	ZH_CN	服务器
 
 ABOUT_SHORT
-	BE	XXX
+	BE	Аб праграме
 	CS	O aplikaci
 	DA	Om
 	DE	Info...
@@ -3412,7 +3412,7 @@ ABOUT_SHORT
 	ZH_CN	关于
 
 WEB_XML_ERROR
-	BE	XXX
+	BE	Памылка пры загрузцы аддаленага канала для %s: (%s)
 	CS	Nastala chyba při zavádění vzdáleného kanálu pro  %s: (%s)
 	DA	Der opstod en fejl under indlæsningen af feed for %s: (%s)
 	DE	Beim Laden des Remote-Feed von %s ist ein Fehler aufgetreten: (%s)
@@ -3430,7 +3430,7 @@ WEB_XML_ERROR
 	ZH_CN	载入远方信息时发生失误%s: (%s)
 
 XML_ERROR
-	BE	XXX
+	BE	Памылка
 	CS	Chyba
 	DA	Fejl
 	DE	Fehler
@@ -3448,7 +3448,7 @@ XML_ERROR
 	ZH_CN	失误
 
 XML_GET_FAILED
-	BE	XXX
+	BE	Памылка апрацоўкі
 	CS	Rozbor selhal
 	DA	Det var ikke muligt at fortolke
 	DE	Fehler beim Auslesen
@@ -3466,7 +3466,7 @@ XML_GET_FAILED
 	ZH_CN	解析失误
 
 XML_LOADING
-	BE	XXX
+	BE	Атрыманне...
 	CS	Vyvolávání...
 	DA	Henter...
 	DE	Daten werden geladen ...
@@ -3484,7 +3484,7 @@ XML_LOADING
 	ZH_CN	读取中
 
 XML_LINK
-	BE	XXX
+	BE	Спасылка
 	CS	Odkaz
 	DA	Link
 	DE	Link
@@ -3502,7 +3502,7 @@ XML_LINK
 	ZH_CN	链路
 
 XML_DATE
-	BE	XXX
+	BE	Дата
 	CS	Datum
 	DA	Dato:
 	DE	Datum
@@ -3520,7 +3520,7 @@ XML_DATE
 	ZH_CN	日期
 
 XML_EDITOR
-	BE	XXX
+	BE	Рэдактар
 	CS	Editor
 	DA	Redigeringsprogram
 	DE	Herausgeber
@@ -3538,7 +3538,7 @@ XML_EDITOR
 	ZH_CN	编辑
 
 XML_ENCLOSURE
-	BE	XXX
+	BE	Прымацаванне
 	CS	Kryt
 	DA	Indkapsling
 	DE	Anhang
@@ -3556,7 +3556,7 @@ XML_ENCLOSURE
 	ZH_CN	框架
 
 XML_AUDIO_ENCLOSURES
-	BE	XXX
+	BE	Аўдыё-прымацаванне
 	CS	Kryty Audio
 	DA	Lydindkapsling
 	DE	Audioanhang
@@ -3574,7 +3574,7 @@ XML_AUDIO_ENCLOSURES
 	ZH_CN	音频框架
 
 XML_FEED_DESCRIPTION
-	BE	XXX
+	BE	Інфармацыя аб гытым канале
 	CS	O tomto kanálu
 	DA	Om dette feed
 	DE	Infos über diesen Feed
@@ -3592,7 +3592,7 @@ XML_FEED_DESCRIPTION
 	ZH_CN	关于这饲址
 
 XML_SUBTITLE
-	BE	XXX
+	BE	Субцітры
 	CS	Titulek
 	DA	Undertitel
 	DE	Untertitel
@@ -3610,7 +3610,7 @@ XML_SUBTITLE
 	ZH_CN	字幕
 
 XML_SUMMARY
-	BE	XXX
+	BE	Зводка
 	CS	Souhrn
 	DA	Oversigt
 	DE	Zusammenfassung
@@ -3628,7 +3628,7 @@ XML_SUMMARY
 	ZH_CN	简介
 
 XML_EXPLICIT
-	BE	XXX
+	BE	Для дарослых
 	CS	Výslovný
 	DA	Stødende materiale
 	DE	Nicht jugendfrei
@@ -3646,7 +3646,7 @@ XML_EXPLICIT
 	ZH_CN	说明
 
 NUMBER_OF_LISTENERS
-	BE	XXX
+	BE	Чысло слухачоў
 	CS	Počet posluchačů
 	DA	Antal lyttere
 	DE	Anzahl Hörer
@@ -3664,7 +3664,7 @@ NUMBER_OF_LISTENERS
 	ZH_CN	听众数量
 
 DESCRIPTION
-	BE	XXX
+	BE	Апісанне
 	CS	Popis
 	DA	Beskrivelse
 	DE	Beschreibung
@@ -3682,7 +3682,7 @@ DESCRIPTION
 	ZH_CN	陈述
 
 SOURCE
-	BE	XXX
+	BE	Крыніца
 	CS	Zdroj
 	DA	Kilde
 	DE	Quelle
@@ -3704,7 +3704,7 @@ SOURCE
 # General strings for the setup pages
 
 SETUP_GROUP_BRIGHTNESS
-	BE	XXX
+	BE	Яркасць
 	CS	Jas
 	DA	Lysstyrke
 	DE	Helligkeit
